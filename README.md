@@ -10,3 +10,6 @@ Project ini di buat sebagai media untuk menampilkan identitas diri, skill, penga
 
 ## Fitur Utama
 -Tampilan modern dan responsive 
+
+## Pembuat
+Riswandi
